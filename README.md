@@ -7,7 +7,6 @@ A web-based system that converts **Banglish** (Bengali written in Roman script) 
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
@@ -83,7 +82,7 @@ python app.py
 
 ## 📊 Dataset Visualization (Sample)
 
-- Word Frequency analysis shows common Banglish tokens like ami, tumi, ki, kore.
+- Word Frequency analysis shows common Banglish tokens like `ami`, `tumi`, `ki`, `kore`.
 - Sentence length distribution from 1–17 words.
 - Banglish sentence lengths often exceed Bangla due to suffix differences.
 
