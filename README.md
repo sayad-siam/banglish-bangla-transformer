@@ -94,10 +94,6 @@ python app.py
 - UI improvements (live transliteration, mobile app).
 - Integration with NLP tools (sentiment analysis, grammar correction).
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
 ## 🙌 Acknowledgements
 
 **Shahjalal University of Science and Technology (SUST) — Department of CSE**
